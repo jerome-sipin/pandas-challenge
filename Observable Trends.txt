@@ -1,0 +1,14 @@
+Observed trends in Heroes of Pymoli assignment
+
+1. Heroes of Pymoli is more popular among males than females or other/non-disclosed, 
+as it males take up over 84% of the playerbase. Items and/or gameplay content should appeal more to
+males to increase revenue.  
+
+2. The age range of Heroes of Pymoli players is roughly binomial. The peak players' age range is young, between
+mid-teens into late 20s, but there are players somewhat equally spread out in other age ranges. However, to get 
+the most revenue, items/gameplay content should appeal more to young males. 
+
+3. The most expensive items, such as Final Critic or Oathbreaker, are likley to be purchased more. Maybe the items 
+make the game easier, but it's clear that the item is good enough for multiple people to drop 4+ dollars on them. No matter what the reason, 
+items on the higher end of the price spectrum should be strong to justify their high price tag. 
+
